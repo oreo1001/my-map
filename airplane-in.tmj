@@ -1221,7 +1221,7 @@
       "name": "collisions",
       "opacity": 1,
       "type": "tilelayer",
-      "visible": true,
+      "visible": false,
       "width": 30,
       "x": 0,
       "y": 0
@@ -3694,7 +3694,7 @@
       "name": "entry-from-immigration",
       "opacity": 1,
       "type": "tilelayer",
-      "visible": true,
+      "visible": false,
       "width": 30,
       "properties": [
         {
@@ -4325,7 +4325,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "airplane-in-chunk-1-072fe534.png",
+      "image": "airplane-in-chunk-1-f11f04f0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -4340,7 +4340,7 @@
     {
       "columns": 13,
       "firstgid": 257,
-      "image": "airplane-in-chunk-2-072fe534.png",
+      "image": "airplane-in-chunk-2-f11f04f0.png",
       "imageheight": 416,
       "imagewidth": 416,
       "margin": 0,
