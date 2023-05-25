@@ -4505,7 +4505,7 @@
       ],
       "height": 60,
       "id": 1,
-      "name": "Tile Layer 1",
+      "name": "subway",
       "opacity": 1,
       "type": "tilelayer",
       "visible": true,
@@ -10049,6 +10049,7 @@
         0,
         0,
         0,
+        3220,
         0,
         0,
         0,
@@ -10123,8 +10124,7 @@
         0,
         0,
         0,
-        0,
-        0,
+        3221,
         0,
         0,
         0,
@@ -13536,6 +13536,13 @@
       "type": "tilelayer",
       "visible": true,
       "width": 75,
+      "properties": [
+        {
+          "name": "exitUrl",
+          "type": "string",
+          "value": ""
+        }
+      ],
       "x": 0,
       "y": 0
     },
@@ -18049,6 +18056,13 @@
       "type": "tilelayer",
       "visible": true,
       "width": 75,
+      "properties": [
+        {
+          "name": "startLayer",
+          "type": "bool",
+          "value": true
+        }
+      ],
       "x": 0,
       "y": 0
     }
@@ -18058,7 +18072,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "subway-chunk-1-3a06786a.png",
+      "image": "subway-chunk-1-a05e6e0f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -18073,7 +18087,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "subway-chunk-2-3a06786a.png",
+      "image": "subway-chunk-2-a05e6e0f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -18088,7 +18102,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "subway-chunk-3-3a06786a.png",
+      "image": "subway-chunk-3-a05e6e0f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -18103,7 +18117,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "subway-chunk-4-3a06786a.png",
+      "image": "subway-chunk-4-a05e6e0f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -18118,7 +18132,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "subway-chunk-5-3a06786a.png",
+      "image": "subway-chunk-5-a05e6e0f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -18133,7 +18147,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "subway-chunk-6-3a06786a.png",
+      "image": "subway-chunk-6-a05e6e0f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -18148,7 +18162,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "subway-chunk-7-3a06786a.png",
+      "image": "subway-chunk-7-a05e6e0f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -18163,7 +18177,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "subway-chunk-8-3a06786a.png",
+      "image": "subway-chunk-8-a05e6e0f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -18178,7 +18192,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "subway-chunk-9-3a06786a.png",
+      "image": "subway-chunk-9-a05e6e0f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -18193,7 +18207,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "subway-chunk-10-3a06786a.png",
+      "image": "subway-chunk-10-a05e6e0f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -18208,7 +18222,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "subway-chunk-11-3a06786a.png",
+      "image": "subway-chunk-11-a05e6e0f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -18223,7 +18237,7 @@
     {
       "columns": 16,
       "firstgid": 2817,
-      "image": "subway-chunk-12-3a06786a.png",
+      "image": "subway-chunk-12-a05e6e0f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -18238,14 +18252,14 @@
     {
       "columns": 13,
       "firstgid": 3073,
-      "image": "subway-chunk-13-3a06786a.png",
+      "image": "subway-chunk-13-a05e6e0f.png",
       "imageheight": 416,
       "imagewidth": 416,
       "margin": 0,
       "name": "Chunk 13",
       "properties": [],
       "spacing": 0,
-      "tilecount": 147,
+      "tilecount": 149,
       "tileheight": 32,
       "tilewidth": 32,
       "tiles": []
