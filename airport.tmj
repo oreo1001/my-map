@@ -311,7 +311,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"airplane-in.tmj#entry-from-airport"
+                 "value":"airplane.tmj#entry-from-airport"
                 }],
          "type":"tilelayer",
          "visible":true,
