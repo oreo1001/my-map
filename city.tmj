@@ -1760,9 +1760,47 @@
          "width":75,
          "x":0,
          "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":30,
+         "name":"bgm",
+         "objects":[
+                {
+                 "height":1659.45855052968,
+                 "id":1,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":0.8
+                        }, 
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"city.mp3"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":false,
+                 "width":2230.90633933076,
+                 "x":98.4698167143097,
+                 "y":127.526483941483
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":false,
+         "x":0,
+         "y":0
         }],
- "nextlayerid":30,
- "nextobjectid":1,
+ "nextlayerid":31,
+ "nextobjectid":2,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.10.1",
