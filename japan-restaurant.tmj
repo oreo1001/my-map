@@ -2200,7 +2200,7 @@
       "name": "speak",
       "opacity": 1,
       "type": "tilelayer",
-      "visible": true,
+      "visible": false,
       "width": 20,
       "properties": [
         {
@@ -2223,7 +2223,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "japan-restaurant-chunk-1-3e2d1958.png",
+      "image": "japan-restaurant-chunk-1-eea436a6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -2249,7 +2249,7 @@
     {
       "columns": 3,
       "firstgid": 257,
-      "image": "japan-restaurant-chunk-2-3e2d1958.png",
+      "image": "japan-restaurant-chunk-2-eea436a6.png",
       "imageheight": 96,
       "imagewidth": 96,
       "margin": 0,
