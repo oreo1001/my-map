@@ -20080,6 +20080,46 @@
       "y": 0
     },
     {
+      "name": "bgm",
+      "objects": [
+        {
+          "id": 1,
+          "name": "",
+          "visible": false,
+          "x": 165.333333333333,
+          "y": 164,
+          "height": 1270.66666666667,
+          "properties": [
+            {
+              "name": "audioLoop",
+              "type": "bool",
+              "value": true
+            },
+            {
+              "name": "audioVolume",
+              "type": "float",
+              "value": 0.8
+            },
+            {
+              "name": "playAudio",
+              "type": "string",
+              "value": "airport.mp3"
+            }
+          ],
+          "rotation": 0,
+          "type": "area",
+          "width": 2228
+        }
+      ],
+      "opacity": 1,
+      "type": "objectgroup",
+      "visible": false,
+      "draworder": "topdown",
+      "id": 7,
+      "x": 0,
+      "y": 0
+    },
+    {
       "data": [
         0,
         0,
@@ -24098,7 +24138,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "airport-chunk-1-359f6b03.png",
+      "image": "airport-chunk-1-95947a59.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24124,7 +24164,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "airport-chunk-2-359f6b03.png",
+      "image": "airport-chunk-2-95947a59.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24139,7 +24179,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "airport-chunk-3-359f6b03.png",
+      "image": "airport-chunk-3-95947a59.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24154,7 +24194,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "airport-chunk-4-359f6b03.png",
+      "image": "airport-chunk-4-95947a59.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24169,7 +24209,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "airport-chunk-5-359f6b03.png",
+      "image": "airport-chunk-5-95947a59.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24184,7 +24224,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "airport-chunk-6-359f6b03.png",
+      "image": "airport-chunk-6-95947a59.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24199,7 +24239,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "airport-chunk-7-359f6b03.png",
+      "image": "airport-chunk-7-95947a59.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24214,7 +24254,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "airport-chunk-8-359f6b03.png",
+      "image": "airport-chunk-8-95947a59.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24229,7 +24269,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "airport-chunk-9-359f6b03.png",
+      "image": "airport-chunk-9-95947a59.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24244,7 +24284,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "airport-chunk-10-359f6b03.png",
+      "image": "airport-chunk-10-95947a59.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24259,7 +24299,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "airport-chunk-11-359f6b03.png",
+      "image": "airport-chunk-11-95947a59.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24274,7 +24314,7 @@
     {
       "columns": 3,
       "firstgid": 2817,
-      "image": "airport-chunk-12-359f6b03.png",
+      "image": "airport-chunk-12-95947a59.png",
       "imageheight": 96,
       "imagewidth": 96,
       "margin": 0,
@@ -24291,8 +24331,8 @@
   "compressionlevel": -1,
   "height": 50,
   "infinite": false,
-  "nextlayerid": 7,
-  "nextobjectid": 1,
+  "nextlayerid": 8,
+  "nextobjectid": 2,
   "orientation": "orthogonal",
   "renderorder": "right-down",
   "tileheight": 32,
