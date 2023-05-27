@@ -889,7 +889,7 @@
         {
           "name": "openWebsite",
           "type": "string",
-          "value": "https://gather-mvp.web.app/#/askCafe"
+          "value": "https://gather-mvp.web.app/#/starbucks"
         },
         {
           "name": "openWebsitePolicy",
@@ -6248,7 +6248,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "cafe-chunk-1-36b451c5.png",
+      "image": "cafe-chunk-1-5ff1e210.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -6274,7 +6274,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "cafe-chunk-2-36b451c5.png",
+      "image": "cafe-chunk-2-5ff1e210.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -6289,7 +6289,7 @@
     {
       "columns": 10,
       "firstgid": 513,
-      "image": "cafe-chunk-3-36b451c5.png",
+      "image": "cafe-chunk-3-5ff1e210.png",
       "imageheight": 320,
       "imagewidth": 320,
       "margin": 0,
