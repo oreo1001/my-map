@@ -901,6 +901,46 @@
       "y": 0
     },
     {
+      "name": "bgm",
+      "objects": [
+        {
+          "id": 1,
+          "name": "",
+          "visible": false,
+          "x": 65.2429796536069,
+          "y": 97.5281654615773,
+          "height": 634.269379519085,
+          "properties": [
+            {
+              "name": "audioLoop",
+              "type": "bool",
+              "value": true
+            },
+            {
+              "name": "audioVolume",
+              "type": "float",
+              "value": 0.3
+            },
+            {
+              "name": "playAudio",
+              "type": "string",
+              "value": "cafe.mp3"
+            }
+          ],
+          "rotation": 0,
+          "type": "area",
+          "width": 954.430805448125
+        }
+      ],
+      "opacity": 1,
+      "type": "objectgroup",
+      "visible": false,
+      "draworder": "topdown",
+      "id": 8,
+      "x": 0,
+      "y": 0
+    },
+    {
       "data": [
         0,
         0,
@@ -6248,7 +6288,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "cafe-chunk-1-a58fac77.png",
+      "image": "cafe-chunk-1-10b3ea40.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -6274,7 +6314,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "cafe-chunk-2-a58fac77.png",
+      "image": "cafe-chunk-2-10b3ea40.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -6289,7 +6329,7 @@
     {
       "columns": 10,
       "firstgid": 513,
-      "image": "cafe-chunk-3-a58fac77.png",
+      "image": "cafe-chunk-3-10b3ea40.png",
       "imageheight": 320,
       "imagewidth": 320,
       "margin": 0,
@@ -6306,8 +6346,8 @@
   "compressionlevel": -1,
   "height": 25,
   "infinite": false,
-  "nextlayerid": 8,
-  "nextobjectid": 1,
+  "nextlayerid": 9,
+  "nextobjectid": 2,
   "orientation": "orthogonal",
   "renderorder": "right-down",
   "tileheight": 32,

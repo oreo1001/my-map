@@ -3044,7 +3044,7 @@
             {
               "name": "audioVolume",
               "type": "float",
-              "value": 0.8
+              "value": 0.3
             },
             {
               "name": "playAudio",
@@ -27203,7 +27203,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "airplane-chunk-1-66e565fc.png",
+      "image": "airplane-chunk-1-6e1413dd.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -27229,7 +27229,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "airplane-chunk-2-66e565fc.png",
+      "image": "airplane-chunk-2-6e1413dd.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -27244,7 +27244,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "airplane-chunk-3-66e565fc.png",
+      "image": "airplane-chunk-3-6e1413dd.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -27259,7 +27259,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "airplane-chunk-4-66e565fc.png",
+      "image": "airplane-chunk-4-6e1413dd.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -27274,7 +27274,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "airplane-chunk-5-66e565fc.png",
+      "image": "airplane-chunk-5-6e1413dd.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -27289,7 +27289,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "airplane-chunk-6-66e565fc.png",
+      "image": "airplane-chunk-6-6e1413dd.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -27304,7 +27304,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "airplane-chunk-7-66e565fc.png",
+      "image": "airplane-chunk-7-6e1413dd.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -27319,7 +27319,7 @@
     {
       "columns": 11,
       "firstgid": 1793,
-      "image": "airplane-chunk-8-66e565fc.png",
+      "image": "airplane-chunk-8-6e1413dd.png",
       "imageheight": 352,
       "imagewidth": 352,
       "margin": 0,
