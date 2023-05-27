@@ -99505,6 +99505,46 @@
       "width": 75,
       "x": 0,
       "y": 0
+    },
+    {
+      "name": "bgm",
+      "objects": [
+        {
+          "id": 1,
+          "name": "",
+          "visible": false,
+          "x": 98.4698167143097,
+          "y": 127.526483941483,
+          "height": 1659.45855052968,
+          "properties": [
+            {
+              "name": "audioLoop",
+              "type": "bool",
+              "value": true
+            },
+            {
+              "name": "audioVolume",
+              "type": "float",
+              "value": 0.8
+            },
+            {
+              "name": "playAudio",
+              "type": "string",
+              "value": "city.mp3"
+            }
+          ],
+          "rotation": 0,
+          "type": "area",
+          "width": 2230.90633933076
+        }
+      ],
+      "opacity": 1,
+      "type": "objectgroup",
+      "visible": false,
+      "draworder": "topdown",
+      "id": 30,
+      "x": 0,
+      "y": 0
     }
   ],
   "tiledversion": "1.10.1",
@@ -99512,7 +99552,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "city-chunk-1-54ee5ae1.png",
+      "image": "city-chunk-1-fbfa2b94.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -99538,7 +99578,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "city-chunk-2-54ee5ae1.png",
+      "image": "city-chunk-2-fbfa2b94.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -99553,7 +99593,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "city-chunk-3-54ee5ae1.png",
+      "image": "city-chunk-3-fbfa2b94.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -99568,7 +99608,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "city-chunk-4-54ee5ae1.png",
+      "image": "city-chunk-4-fbfa2b94.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -99583,7 +99623,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "city-chunk-5-54ee5ae1.png",
+      "image": "city-chunk-5-fbfa2b94.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -99598,7 +99638,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "city-chunk-6-54ee5ae1.png",
+      "image": "city-chunk-6-fbfa2b94.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -99613,7 +99653,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "city-chunk-7-54ee5ae1.png",
+      "image": "city-chunk-7-fbfa2b94.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -99628,7 +99668,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "city-chunk-8-54ee5ae1.png",
+      "image": "city-chunk-8-fbfa2b94.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -99643,7 +99683,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "city-chunk-9-54ee5ae1.png",
+      "image": "city-chunk-9-fbfa2b94.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -99658,7 +99698,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "city-chunk-10-54ee5ae1.png",
+      "image": "city-chunk-10-fbfa2b94.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -99673,7 +99713,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "city-chunk-11-54ee5ae1.png",
+      "image": "city-chunk-11-fbfa2b94.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -99688,7 +99728,7 @@
     {
       "columns": 16,
       "firstgid": 2817,
-      "image": "city-chunk-12-54ee5ae1.png",
+      "image": "city-chunk-12-fbfa2b94.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -99703,7 +99743,7 @@
     {
       "columns": 16,
       "firstgid": 3073,
-      "image": "city-chunk-13-54ee5ae1.png",
+      "image": "city-chunk-13-fbfa2b94.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -99718,7 +99758,7 @@
     {
       "columns": 16,
       "firstgid": 3329,
-      "image": "city-chunk-14-54ee5ae1.png",
+      "image": "city-chunk-14-fbfa2b94.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -99733,7 +99773,7 @@
     {
       "columns": 13,
       "firstgid": 3585,
-      "image": "city-chunk-15-54ee5ae1.png",
+      "image": "city-chunk-15-fbfa2b94.png",
       "imageheight": 416,
       "imagewidth": 416,
       "margin": 0,
@@ -99750,8 +99790,8 @@
   "compressionlevel": -1,
   "height": 60,
   "infinite": false,
-  "nextlayerid": 30,
-  "nextobjectid": 1,
+  "nextlayerid": 31,
+  "nextobjectid": 2,
   "orientation": "orthogonal",
   "renderorder": "right-down",
   "tileheight": 32,
