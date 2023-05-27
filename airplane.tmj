@@ -488,7 +488,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"immigration.tmj#entry-from-airplane"
+                 "value":"city.tmj#entry-from-immigration"
                 }],
          "type":"tilelayer",
          "visible":true,
