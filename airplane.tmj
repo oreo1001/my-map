@@ -92,7 +92,7 @@
                         {
                          "name":"audioVolume",
                          "type":"float",
-                         "value":0.8
+                         "value":0.3
                         }, 
                         {
                          "name":"playAudio",
@@ -488,7 +488,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"immigration.tmj#entry-from-airplane"
+                 "value":"city.tmj#entry-from-immigration"
                 }],
          "type":"tilelayer",
          "visible":true,
