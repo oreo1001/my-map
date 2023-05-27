@@ -50,6 +50,44 @@
          "y":0
         }, 
         {
+         "draworder":"topdown",
+         "id":8,
+         "name":"bgm",
+         "objects":[
+                {
+                 "height":634.269379519085,
+                 "id":1,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":0.3
+                        }, 
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"cafe.mp3"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":false,
+                 "width":954.430805448125,
+                 "x":65.2429796536069,
+                 "y":97.5281654615773
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":false,
+         "x":0,
+         "y":0
+        }, 
+        {
          "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -277,8 +315,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":8,
- "nextobjectid":1,
+ "nextlayerid":9,
+ "nextobjectid":2,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.10.1",
