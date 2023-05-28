@@ -97,7 +97,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"airplane.mp3"
+                         "value":".\/audio\/airplane.mp3"
                         }],
                  "rotation":0,
                  "type":"area",
