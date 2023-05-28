@@ -414,7 +414,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"https:\/\/github.com\/oreo1001\/my-map\/blob\/ac4a6cbc11dff562235d93f508abbbb94bd06642\/airport.mp3"
+                         "value":"airport.mp3"
                         }],
                  "rotation":0,
                  "type":"area",
