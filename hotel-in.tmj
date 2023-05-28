@@ -2294,7 +2294,7 @@
         {
           "id": 1,
           "name": "",
-          "visible": false,
+          "visible": true,
           "x": 65.8454647256439,
           "y": 95.4087346024636,
           "height": 638.297872340426,
@@ -2312,7 +2312,7 @@
             {
               "name": "playAudio",
               "type": "string",
-              "value": "hotel.mp3"
+              "value": "https://github.com/oreo1001/my-map/raw/master/hotel.mp3"
             }
           ],
           "rotation": 0,
@@ -10328,7 +10328,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "hotel-in-chunk-1-bc7a0ccd.png",
+      "image": "hotel-in-chunk-1-9328def3.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10354,7 +10354,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "hotel-in-chunk-2-bc7a0ccd.png",
+      "image": "hotel-in-chunk-2-9328def3.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10369,7 +10369,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "hotel-in-chunk-3-bc7a0ccd.png",
+      "image": "hotel-in-chunk-3-9328def3.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10384,7 +10384,7 @@
     {
       "columns": 7,
       "firstgid": 769,
-      "image": "hotel-in-chunk-4-bc7a0ccd.png",
+      "image": "hotel-in-chunk-4-9328def3.png",
       "imageheight": 224,
       "imagewidth": 224,
       "margin": 0,
