@@ -4514,6 +4514,46 @@
       "y": 0
     },
     {
+      "name": "bgm",
+      "objects": [
+        {
+          "id": 1,
+          "name": "",
+          "visible": false,
+          "x": 127.526483941483,
+          "y": 163.040188330251,
+          "height": 1559.37447452497,
+          "properties": [
+            {
+              "name": "audioLoop",
+              "type": "bool",
+              "value": true
+            },
+            {
+              "name": "audioVolume",
+              "type": "float",
+              "value": 0.3
+            },
+            {
+              "name": "playAudio",
+              "type": "string",
+              "value": "airport.mp3"
+            }
+          ],
+          "rotation": 0,
+          "type": "area",
+          "width": 2106.60837397007
+        }
+      ],
+      "opacity": 1,
+      "type": "objectgroup",
+      "visible": false,
+      "draworder": "topdown",
+      "id": 9,
+      "x": 0,
+      "y": 0
+    },
+    {
       "data": [
         0,
         0,
@@ -31611,7 +31651,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "subway-chunk-1-a641ddd9.png",
+      "image": "subway-chunk-1-3a8940e7.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -31637,7 +31677,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "subway-chunk-2-a641ddd9.png",
+      "image": "subway-chunk-2-3a8940e7.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -31652,7 +31692,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "subway-chunk-3-a641ddd9.png",
+      "image": "subway-chunk-3-3a8940e7.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -31667,7 +31707,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "subway-chunk-4-a641ddd9.png",
+      "image": "subway-chunk-4-3a8940e7.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -31682,7 +31722,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "subway-chunk-5-a641ddd9.png",
+      "image": "subway-chunk-5-3a8940e7.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -31697,7 +31737,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "subway-chunk-6-a641ddd9.png",
+      "image": "subway-chunk-6-3a8940e7.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -31712,7 +31752,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "subway-chunk-7-a641ddd9.png",
+      "image": "subway-chunk-7-3a8940e7.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -31727,7 +31767,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "subway-chunk-8-a641ddd9.png",
+      "image": "subway-chunk-8-3a8940e7.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -31742,7 +31782,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "subway-chunk-9-a641ddd9.png",
+      "image": "subway-chunk-9-3a8940e7.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -31757,7 +31797,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "subway-chunk-10-a641ddd9.png",
+      "image": "subway-chunk-10-3a8940e7.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -31772,7 +31812,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "subway-chunk-11-a641ddd9.png",
+      "image": "subway-chunk-11-3a8940e7.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -31787,7 +31827,7 @@
     {
       "columns": 16,
       "firstgid": 2817,
-      "image": "subway-chunk-12-a641ddd9.png",
+      "image": "subway-chunk-12-3a8940e7.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -31802,7 +31842,7 @@
     {
       "columns": 13,
       "firstgid": 3073,
-      "image": "subway-chunk-13-a641ddd9.png",
+      "image": "subway-chunk-13-3a8940e7.png",
       "imageheight": 416,
       "imagewidth": 416,
       "margin": 0,
@@ -31819,8 +31859,8 @@
   "compressionlevel": -1,
   "height": 60,
   "infinite": false,
-  "nextlayerid": 9,
-  "nextobjectid": 1,
+  "nextlayerid": 10,
+  "nextobjectid": 2,
   "orientation": "orthogonal",
   "renderorder": "right-down",
   "tileheight": 32,

@@ -2216,6 +2216,46 @@
       ],
       "x": 0,
       "y": 0
+    },
+    {
+      "name": "bgm",
+      "objects": [
+        {
+          "id": 1,
+          "name": "",
+          "visible": true,
+          "x": 32.68875063057,
+          "y": 1.61425929039852,
+          "height": 477.013620312763,
+          "properties": [
+            {
+              "name": "audioLoop",
+              "type": "bool",
+              "value": true
+            },
+            {
+              "name": "audioVolume",
+              "type": "float",
+              "value": 0.3
+            },
+            {
+              "name": "playAudio",
+              "type": "string",
+              "value": "airplane.mp3"
+            }
+          ],
+          "rotation": 0,
+          "type": "area",
+          "width": 541.583991928704
+        }
+      ],
+      "opacity": 1,
+      "type": "objectgroup",
+      "visible": true,
+      "draworder": "topdown",
+      "id": 9,
+      "x": 0,
+      "y": 0
     }
   ],
   "tiledversion": "1.10.1",
@@ -2223,7 +2263,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "japan-restaurant-chunk-1-273afdd4.png",
+      "image": "japan-restaurant-chunk-1-75c529d9.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -2249,7 +2289,7 @@
     {
       "columns": 3,
       "firstgid": 257,
-      "image": "japan-restaurant-chunk-2-273afdd4.png",
+      "image": "japan-restaurant-chunk-2-75c529d9.png",
       "imageheight": 96,
       "imagewidth": 96,
       "margin": 0,
@@ -2266,8 +2306,8 @@
   "compressionlevel": -1,
   "height": 15,
   "infinite": false,
-  "nextlayerid": 9,
-  "nextobjectid": 1,
+  "nextlayerid": 10,
+  "nextobjectid": 2,
   "orientation": "orthogonal",
   "renderorder": "right-down",
   "tileheight": 32,

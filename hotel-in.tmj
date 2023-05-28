@@ -2289,6 +2289,46 @@
       "y": 0
     },
     {
+      "name": "bgm",
+      "objects": [
+        {
+          "id": 1,
+          "name": "",
+          "visible": false,
+          "x": 65.8454647256439,
+          "y": 95.4087346024636,
+          "height": 638.297872340426,
+          "properties": [
+            {
+              "name": "audioLoop",
+              "type": "bool",
+              "value": true
+            },
+            {
+              "name": "audioVolume",
+              "type": "float",
+              "value": 0.3
+            },
+            {
+              "name": "playAudio",
+              "type": "string",
+              "value": "hotel.mp3"
+            }
+          ],
+          "rotation": 0,
+          "type": "area",
+          "width": 1273.90817469205
+        }
+      ],
+      "opacity": 1,
+      "type": "objectgroup",
+      "visible": false,
+      "draworder": "topdown",
+      "id": 10,
+      "x": 0,
+      "y": 0
+    },
+    {
       "data": [
         0,
         0,
@@ -10288,7 +10328,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "hotel-in-chunk-1-9d93d379.png",
+      "image": "hotel-in-chunk-1-1cd451a0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10314,7 +10354,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "hotel-in-chunk-2-9d93d379.png",
+      "image": "hotel-in-chunk-2-1cd451a0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10329,7 +10369,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "hotel-in-chunk-3-9d93d379.png",
+      "image": "hotel-in-chunk-3-1cd451a0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10344,7 +10384,7 @@
     {
       "columns": 7,
       "firstgid": 769,
-      "image": "hotel-in-chunk-4-9d93d379.png",
+      "image": "hotel-in-chunk-4-1cd451a0.png",
       "imageheight": 224,
       "imagewidth": 224,
       "margin": 0,
@@ -10361,8 +10401,8 @@
   "compressionlevel": -1,
   "height": 25,
   "infinite": false,
-  "nextlayerid": 10,
-  "nextobjectid": 1,
+  "nextlayerid": 11,
+  "nextobjectid": 2,
   "orientation": "orthogonal",
   "renderorder": "right-down",
   "tileheight": 32,
