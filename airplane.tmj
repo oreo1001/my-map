@@ -97,7 +97,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":".\/audio\/airplane.mp3"
+                         "value":"https:\/\/github.com\/oreo1001\/my-map\/raw\/master\/airplane.mp3"
                         }],
                  "rotation":0,
                  "type":"area",

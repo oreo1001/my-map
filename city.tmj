@@ -1702,7 +1702,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"city.mp3"
+                         "value":"https:\/\/github.com\/oreo1001\/my-map\/raw\/master\/city.mp3"
                         }],
                  "rotation":0,
                  "type":"area",

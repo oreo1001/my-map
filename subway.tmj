@@ -96,11 +96,11 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"airport.mp3"
+                         "value":"https:\/\/github.com\/oreo1001\/my-map\/raw\/master\/airport.mp3"
                         }],
                  "rotation":0,
                  "type":"area",
-                 "visible":false,
+                 "visible":true,
                  "width":2106.60837397007,
                  "x":127.526483941483,
                  "y":163.040188330251

@@ -108,11 +108,11 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"hotel.mp3"
+                         "value":"https:\/\/github.com\/oreo1001\/my-map\/raw\/master\/hotel.mp3"
                         }],
                  "rotation":0,
                  "type":"area",
-                 "visible":false,
+                 "visible":true,
                  "width":1273.90817469205,
                  "x":65.8454647256439,
                  "y":95.4087346024636
